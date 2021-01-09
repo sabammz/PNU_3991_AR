@@ -22,9 +22,9 @@
   ## فهرست دروس کارشناسی 
   
   - [نظریه زبان ها و ماشین ها _ 1115157-02](https://github.com/sabammz/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
-  <br>
+ 
   - [تعامل انسان و کامپیوتر _ 1322108-01](https://github.com/sabammz/PNU_3991_AR/tree/main/Human-Computer-Interaction)
-  <br>
+  
   
   ---------------------
   
@@ -58,11 +58,11 @@
 
  -------------------------------
  <div align="center">
-  
+  <div dir="rtl">
   ## روز و ساعت ارائه دروس
   </div>
-  
-  <div dir="ltr">
+  <div dir="rtl">
+ 
   
   <table style="width:150%">
     <tr>
