@@ -46,11 +46,12 @@
      </tr>
      <tr>
        <th ><a > </a></th>
-       <th ><a href="https:/github.com/sabammz/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines"> نظريه زبانهاوماشين ها02-1115157</a></th>
+       <th ><a href="https:/github.com/sabammz/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines">          نظريه زبانهاوماشين ها 
+         02-1115157</a></th>
        <th > </th>
        <th > </th>
        <th > JS </th>
-       <th > شنبه </th>
+       <th >    شنبه     </th>
      </tr>
       <tr>
         <th ></th>
@@ -58,15 +59,15 @@
         <th ></th>
         <th ></th>
         <th ></th>
-        <th >یک شنبه</th>
+        <th>         یک شنبه         </th>
      </tr>
       <tr>
         <th ></th>
         <th ></th>
         <th ></th>
         <th ><a href="https:/github.com/sabammz/PNU_3991_AR/tree/main/Human-Computer-Interaction"> تعامل انسان و کامپیوتر</a></th>
-        <th ></th>
-        <th >دو شنبه</th> 
+        <th >JS</th>
+        <th>       دوشنبه        </th> 
      </tr>
       <tr>
         <th ></th>
@@ -74,16 +75,16 @@
         <th ></th>
         <th ></th>
         <th ></th>
-        <th >سه شنبه </th>
+        <th>            سه شنبه        </th>
      </tr>
       <tr>
         <th ></th>
         <th ></th>
         <th ></th>
         <th ></th>
-        <th ></th>
-        <th >چهار شنبه </th>
-      </tr>
+        <th > JS </th>
+        <th>         چهار شنبه          </th>
+      </tr> 
   </table>
   
   </div>
