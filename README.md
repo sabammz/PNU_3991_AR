@@ -58,10 +58,10 @@
 
  -------------------------------
  <div align="center">
-  <div dir="rtl">
+  
   ## روز و ساعت ارائه دروس
   </div>
-  <div dir="rtl">
+  <div dir="ltr">
  
   
   <table style="width:150%">
