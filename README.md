@@ -21,7 +21,37 @@
   
   ## فهرست درس ها 
   
+  - [نظریه زبان ها و ماشین ها _ 1115157-02](https:/github.com/sabammz/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
+  - [تعامل انسان و کامپیوتر _ 1322108-01](https:/github.com/sabammz/PNU_3991_AR/tree/main/Human-Computer-Interaction)
   ---------------------
   
   ## گروه های درسی
   
+ -------------------------------
+ <div align="center">
+  
+  ## روز و ساعت ارائه دروس
+  </div>
+  
+  <div dir="ltr">
+  
+  <table style="width:100%">
+    <tr>
+      <th> 16-18 </th>
+      <th> 14-16 </th>
+      <th> 12-14 </th>
+      <th> 10-12 </th>
+      <th> 8-10 </th>
+      <th> روز </th>
+     </tr>
+     <tr>
+       <th ><a > </a></th>
+       <th ><a > </a></th>
+       <th ><a > </a></th>
+       <th ></th>
+       <th ><a href="https:/github.com/sabammz/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines"> نظريه زبانهاوماشين ها</a></th>
+       <th >شنبه</th>
+       
+       
+       
+      
