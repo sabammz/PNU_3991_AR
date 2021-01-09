@@ -19,6 +19,8 @@
   -[ ارزیابی فعالیت های مشترک](https://github.com/sabammz/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.pdf)
   -[ارزیابی رزومه و انگیزه نامه ](https://github.com/sabammz/PNU_3991_AR/blob/main/XX_CV_CheckList_AR_3991.pdf)
   
+  ## بخش اختصاصی 
+  [ارزیابی درس ]
   -------------------
   
   ## فهرست دروس کارشناسی 
