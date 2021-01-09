@@ -23,7 +23,7 @@
   
   - [نظریه زبان ها و ماشین ها _ 1115157-02](https://github.com/sabammz/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
  
-  - [تعامل انسان و کامپیوتر _ 1322108-01](https://github.com/sabammz/PNU_3991_AR/tree/main/Human-Computer-Interaction)
+  - [تعامل انسان و کامپیوتر _ 1322108-01](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction)
   
   
   ---------------------
@@ -93,7 +93,7 @@
         <th ></th>
         <th ></th>
         <th ></th>
-        <th ><a href="https:/github.com/sabammz/PNU_3991_AR/tree/main/Human-Computer-Interaction"> تعامل انسان و کامپیوتر</a></th>
+        <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction"> تعامل انسان و کامپیوتر</a></th>
         <th >JS</th>
         <th>       دوشنبه        </th> 
      </tr>
