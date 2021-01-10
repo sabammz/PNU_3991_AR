@@ -9,7 +9,7 @@
   - [Resume(Eng)](https://cvbuilder.me/Resume/en/c5263476-3434-4d23-934e-aa2ac41fed65?template=Template2)
   - [Resume(Per)](file:///C:/Users/user/Desktop/Resume-SabaMoghadam(Per).pdf)
   - [SOP](https://sabammz.github.io/sop)
-  - [Certificate](https://www.sololearn.com/Certificate/1024-13004537/pdf/)
+  - [Certificate](https://github.io/Certificate/)
   - [GitHub](https://github.com/sabammz)
   
   -----------------
