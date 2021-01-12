@@ -9,7 +9,8 @@
   - [Resume(Eng)](https://cvbuilder.me/Resume/en/c5263476-3434-4d23-934e-aa2ac41fed65?template=Template2)
   - [Resume(Per)](file:///C:/Users/user/Desktop/Resume-SabaMoghadam(Per).pdf)
   - [SOP](https://sabammz.github.io/sop)
-  - [Certificate](https://github.io/Certificate/)
+  - [JS Certificate](https://github.io/Certificate/)
+  - [jlord](https://github.com/sabammz/PNU_3991_AR/blob/main/Jlord.jpg)
   - [GitHub](https://github.com/sabammz)
   
   -----------------
