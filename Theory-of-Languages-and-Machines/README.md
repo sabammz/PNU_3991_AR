@@ -1,6 +1,6 @@
 # [PNU_3991_AR](https://github.com/sabammz/PNU_3991_AR)
 --------------
-<dive dir="rtl">
+<dive dir="ltr">
 
 #صبا مقدم زرندی 
 - [ارائه شفاهی فصل  6](https://drive.google.com/file/d/1bkuyBKv9bZqoeNQQWKxcxKPOLCXgAH5j/view?usp=sharing)
