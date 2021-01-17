@@ -9,8 +9,8 @@
   
   ## پروژه
   ####  "تحلیل و طراحی سایت کتابفروشی"
-  - [project.pdf]()
-  - [project.LaTex]()
+  - [project.pdf](https://github.com/sabammz/PNU_3991_AR/blob/main/HCI/HCI%20Project.pdf.pdf)
+  - [project.LaTex](https://github.com/sabammz/PNU_3991_AR/blob/main/HCI/HCI%20Project.Latex.tex)
   - [سایت ](http://shop.sa-hosseyni.ir/)
 
 ----------------------
