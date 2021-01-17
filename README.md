@@ -2,8 +2,6 @@
 
 <div dir="rtl">
   
-  -----------------
-  
   # صبا مقدم زرندی  
   - [PNU_3991_AR](https://github.com/sabammz/PNU_3991_AR)
   - [Resume(Eng)](https://cvbuilder.me/Resume/en/c5263476-3434-4d23-934e-aa2ac41fed65?template=Template2)
@@ -17,15 +15,16 @@
   > ارزیابی ها 
   
   ## بخش عمومی 
-  - [ ارزیابی فعالیت های مشترک](https://github.com/sabammz/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.pdf)
+  - [ خلاصه ارزیابی فعالیت های مشترک](https://github.com/sabammz/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.pdf)
   
-  - [ارزیابی رزومه و انگیزه نامه ](https://github.com/sabammz/PNU_3991_AR/blob/main/XX_CV_CheckList_AR_3991.pdf)
+  - [خلاصه ارزیابی رزومه و انگیزه نامه ](https://github.com/sabammz/PNU_3991_AR/blob/main/XX_CV_CheckList_AR_3991.pdf)
   
-  ## بخش اختصاصی 
-  - [ارزیابی درس]
+  ## بخش دروس کارشناسی 
+  - [خلاصه ارزیابی درس ظریه زبان ها و ماشین ها ]()
+  - [خلاصه ارزیابی درس تعامل انسان و کامپیوتر ]()
   -------------------
   
-  ## فهرست دروس کارشناسی 
+  ## فهرست دروس  
   
   - [نظریه زبان ها و ماشین ها _ 1115157-02](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines#TOC)
  
