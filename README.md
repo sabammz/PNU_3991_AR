@@ -26,9 +26,9 @@
   
   ## فهرست دروس  
   
-  - [نظریه زبان ها و ماشین ها _ 1115157-02](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines#TOC)
+  - [نظریه زبان ها و ماشین ها _ 1115157-02](https://github.com/sabammz/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
  
-  - [تعامل انسان و کامپیوتر _ 1322108-01](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction#TOC)
+  - [تعامل انسان و کامپیوتر _ 1322108-01](https://github.com/sabammz/PNU_3991_AR/tree/main/HCI)
   
   
   ---------------------
