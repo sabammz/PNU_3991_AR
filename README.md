@@ -4,24 +4,22 @@
   
   # صبا مقدم زرندی  
   - [PNU_3991_AR](https://github.com/sabammz/PNU_3991_AR)
-  - [Resume(Eng)](https://cvbuilder.me/Resume/en/c5263476-3434-4d23-934e-aa2ac41fed65?template=Template2)
-  - [Resume(Per)](file:///C:/Users/user/Desktop/Resume-SabaMoghadam(Per).pdf)
-  - [SOP](https://sabammz.github.io/sop)
-  - [JS Certificate](https://github.io/Certificate/)
-  - [jlord](https://github.com/sabammz/PNU_3991_AR/blob/main/Jlord.jpg)
+  - [Resume](https://github.com/sabammz/PNU_3991_AR/tree/main/General/Resume)
+  - [Js Certificate](https://github.com/sabammz/PNU_3991_AR/blob/main/General/Certificates/JS.png)
+  - [jlord /patchwork/](https://github.com/sabammz/PNU_3991_AR/blob/main/General/Certificates/Jlord.jpg)
   - [GitHub](https://github.com/sabammz)
   
   -----------------
   > ارزیابی ها 
   
   ## بخش عمومی 
-  - [ خلاصه ارزیابی فعالیت های مشترک](https://github.com/sabammz/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.pdf)
+  - [ خلاصه ارزیابی فعالیت های مشترک](https://github.com/sabammz/PNU_3991_AR/blob/main/Checklists/SM_GeneralSection_CheckList_AR_3991.pdf)
   
-  - [خلاصه ارزیابی رزومه و انگیزه نامه ](https://github.com/sabammz/PNU_3991_AR/blob/main/XX_CV_CheckList_AR_3991.pdf)
+  - [خلاصه ارزیابی رزومه و انگیزه نامه ](https://github.com/sabammz/PNU_3991_AR/blob/main/Checklists/SM_CV_CheckList_AR_3991.pdf)
   
   ## بخش دروس کارشناسی 
-  - [خلاصه ارزیابی درس ظریه زبان ها و ماشین ها ]()
-  - [خلاصه ارزیابی درس تعامل انسان و کامپیوتر ]()
+  - [خلاصه ارزیابی درس ظریه زبان ها و ماشین ها ](https://github.com/sabammz/PNU_3991_AR/blob/main/Checklists/SM_Theory-of-Languages-and-Machines_CheckList_AR_3991%20(1).pdf)
+  - [خلاصه ارزیابی درس تعامل انسان و کامپیوتر ](https://github.com/sabammz/PNU_3991_AR/blob/main/Checklists/SMZ_HumanComputerInteraction_CheckList_AR_3991.pdf)
   -------------------
   
   ## فهرست دروس  
@@ -54,12 +52,6 @@
     
  -------------------------------
  
- ## Winter Semester Courses 1399/2020
-
-# درس مشابه از دانشگاه دیگر
-[دانشگاه کمبریج _تعامل انسان و کامپیوتر	](https://www.cl.cam.ac.uk/teaching/1011/HCI/)
-
- -------------------------------
  <div align="center">
   
   ## روز و ساعت ارائه دروس
