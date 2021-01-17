@@ -11,12 +11,12 @@
 
  ## پروژه
   ####  "تحلیل و طراحی سایت کتابفروشی"
-  - [project.pdf]()
-  - [project.LaTex]()
+  - [project.pdf](https://github.com/sabammz/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/Project/Project.pdf.pdf)
+  - [project.LaTex](https://github.com/sabammz/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/Project/Project.Latex.tex)
   - [سایت ](http://shop.sa-hosseyni.ir/)
  --------------------
  
-  #گروه ها
+  # گروه ها
    ## اعضای گروه پروژه:
    1. G-H01
          1. [_HCI-11_سید امین حسینی](https://github.com/AliRazavi-edu/PNU_3991/blob/ae1b7c2a1634ef1958a26d0489721e2258851b95/_BSc/HumanComputerInteraction/1322108_01/11_%D8%B3%D9%8A%D8%AF%D8%A7%D9%85%D9%8A%D9%86%20%D8%AD%D8%B3%D9%8A%D9%86%D9%8A/readme.md)    
