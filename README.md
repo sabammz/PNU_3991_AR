@@ -18,8 +18,8 @@
   - [خلاصه ارزیابی رزومه و انگیزه نامه ](https://github.com/sabammz/PNU_3991_AR/blob/main/Checklists/SM_CV_CheckList_AR_3991.pdf)
   
   ## بخش دروس کارشناسی 
-  - [خلاصه ارزیابی درس ظریه زبان ها و ماشین ها ](https://github.com/sabammz/PNU_3991_AR/blob/main/Checklists/SM_Theory-of-Languages-and-Machines_CheckList_AR_3991%20(1).pdf)
-  - [خلاصه ارزیابی درس تعامل انسان و کامپیوتر ](https://github.com/sabammz/PNU_3991_AR/blob/main/Checklists/SMZ_HumanComputerInteraction_CheckList_AR_3991.pdf)
+  - [خلاصه ارزیابی درس نظریه زبان ها و ماشین ها ](https://github.com/sabammz/PNU_3991_AR/blob/main/Checklists/SM_Theory-of-Languages-and-Machines_CheckList_AR_3991%20(1).pdf)
+  - [خلاصه ارزیابی درس تعامل انسان و کامپیوتر ](https://github.com/sabammz/PNU_3991_AR/blob/main/Checklists/SM_HumanComputerInteraction_CheckList_AR_3991%20(1).pdf)
   -------------------
   
   ## فهرست دروس  
