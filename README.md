@@ -6,7 +6,7 @@
   - [PNU_3991_AR](https://github.com/sabammz/PNU_3991_AR)
   - [Resume](https://github.com/sabammz/PNU_3991_AR/tree/main/General/Resume)
   - [Js Certificate](https://github.com/sabammz/PNU_3991_AR/blob/main/General/Certificates/JS.png)
-  - [jlord /patchwork/](https://github.com/sabammz/PNU_3991_AR/blob/main/General/Certificates/Jlord.jpg)
+  - [jlord (patchwork)](https://github.com/sabammz/PNU_3991_AR/blob/main/General/Certificates/Jlord.jpg)
   - [GitHub](https://github.com/sabammz)
   
   -----------------
