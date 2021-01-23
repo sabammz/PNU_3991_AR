@@ -48,8 +48,7 @@
  1. G-H01
      1. [_HCI-11_سید امین حسینی](https://github.com/AliRazavi-edu/PNU_3991/blob/ae1b7c2a1634ef1958a26d0489721e2258851b95/_BSc/HumanComputerInteraction/1322108_01/11_%D8%B3%D9%8A%D8%AF%D8%A7%D9%85%D9%8A%D9%86%20%D8%AD%D8%B3%D9%8A%D9%86%D9%8A/readme.md)    
      1. [HCI-30 صبا مقدم زرندی](https://github.com/AliRazavi-edu/PNU_3991/blob/ae1b7c2a1634ef1958a26d0489721e2258851b95/_BSc/HumanComputerInteraction/1322108_01/30_%D8%B5%D8%A8%D8%A7%20%D9%85%D9%82%D8%AF%D9%85%20%D8%B2%D8%B1%D9%86%D8%AF%D9%8A/readme.md)
-     1. [HCI-19 محمد عابدی](https://github.com/AliRazavi-edu/PNU_3991/blob/ae1b7c2a1634ef1958a26d0489721e2258851b95/_BSc/HumanComputerInteraction/1322108_01/19_%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D8%A7%D8%A8%D8%AF%D9%8A/readme.md)
-    
+
  -------------------------------
  
  <div align="center">
