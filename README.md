@@ -4,7 +4,7 @@
   
   # صبا مقدم زرندی  
   - [PNU_3991_AR](https://github.com/sabammz/PNU_3991_AR)
-  - [Resume](https://github.com/sabammz/PNU_3991_AR/tree/main/General/Resume)
+  - [Resume](https://cvbuilder.me/Resume/en/c5263476-3434-4d23-934e-aa2ac41fed65?template=Template2)
   - [Js Certificate](https://github.com/sabammz/PNU_3991_AR/blob/main/General/Certificates/JS.png)
   - [jlord (patchwork)](https://github.com/sabammz/PNU_3991_AR/blob/main/General/Certificates/Jlord.jpg)
   - [GitHub](https://github.com/sabammz)
