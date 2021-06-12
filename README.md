@@ -18,15 +18,15 @@
   - [خلاصه ارزیابی رزومه و انگیزه نامه ](https://github.com/sabammz/PNU_3991_AR/blob/main/Checklists/SM_CV_CheckList_AR_3991.pdf)
   
   ## بخش دروس کارشناسی 
-  - [خلاصه ارزیابی درس نظریه زبان ها و ماشین ها ](https://github.com/sabammz/PNU_3991_AR/blob/main/Checklists/SM_Theory-of-Languages-and-Machines_CheckList_AR_3991%20(1).pdf)
-  - [خلاصه ارزیابی درس تعامل انسان و کامپیوتر ](https://github.com/sabammz/PNU_3991_AR/blob/main/Checklists/SM_HumanComputerInteraction_CheckList_AR_3991%20(1).pdf)
+  - [1 خلاصه ارزیابی ](https://github.com/sabammz/PNU_3991_AR/blob/main/Checklists/SM_Theory-of-Languages-and-Machines_CheckList_AR_3991%20(1).pdf)
+  - [خلاصه ارزیابی2   ](https://github.com/sabammz/PNU_3991_AR/blob/main/Checklists/SM_HumanComputerInteraction_CheckList_AR_3991%20(1).pdf)
   -------------------
   
   ## فهرست دروس  
   
-  - [نظریه زبان ها و ماشین ها _ 1115157-02](https://github.com/sabammz/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
+  - [روش پژوهش و ارائه](https://github.com/sabammz/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
  
-  - [تعامل انسان و کامپیوتر _ 1322108-01](https://github.com/sabammz/PNU_3991_AR/tree/main/HCI)
+  - [روش پژوهش و ارائه](https://github.com/sabammz/PNU_3991_AR/tree/main/HCI)
   
   
   ---------------------
@@ -69,7 +69,7 @@
     </tr>
     <tr>
        <th ><a > </a></th>
-       <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines#TOC">نظريه زبانهاوماشين ها   02-1115157</a></th>
+       <th></th>
        <th></th>
        <th></th>
        <th> JS </th>
@@ -87,7 +87,7 @@
         <th ></th>
         <th ></th>
         <th ></th>
-        <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction#TOC"> تعامل انسان و کامپیوتر</a></th>
+        <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods#TOC"> روش پژوهش و ارائه01-1322010</a></th>
         <th >JS</th>
         <th>       دوشنبه        </th> 
      </tr>
